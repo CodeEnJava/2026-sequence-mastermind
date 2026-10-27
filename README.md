@@ -100,11 +100,11 @@ La première étape consiste à compter les caractères qui se trouvent à la m�
 │   ├── S-PYTH-1026-validation-saisies.md
 │   └── S-PYTH-1027-mastermind.md
 ├── exemples/
-│   ├── etape_01.py
-│   ├── etape_02.py
-│   ├── etape_03.py
-│   ├── etape_04.py
-│   └── mastermind.py
+│   ├── etape_01_votreprenom.py
+│   ├── etape_02_votreprenom.py
+│   ├── etape_03_votreprenom.py
+│   ├── etape_04_votreprenom.py
+│   └── mastermind_votreprenom.py
 └── ressources/
     └── images/
 ```
